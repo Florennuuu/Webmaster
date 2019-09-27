@@ -1,0 +1,23 @@
+.content {
+	border: rgba(0, 128, 0, 50%); ;
+	width:20% ;
+	padding:1% ;
+
+	float: left;
+	margin: 15px;
+}
+
+	.icon{
+		text-align: center;
+		background: green ;
+		color: black ;
+		font-size: 140px ;
+		border-top: 50%;
+
+		}
+
+	.icon hover{
+		background: green ;
+		color: black;
+	}
+
